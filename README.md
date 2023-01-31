@@ -36,4 +36,4 @@ windows-10-enhance-privacy-and-control.bat -AggressiveOptimization -EditGroupPol
 ```
 
 ## Author
-Harry Wong (RedAndBlueEraser) RedAndBlueEraser@outlook.com
+RedAndBlueEraser
